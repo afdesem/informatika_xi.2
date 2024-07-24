@@ -8,7 +8,7 @@ Files that are kept under the "C++/works" contains C++ programs that are written
 <h3>2. "C++/simplified"</h3>
 Files that are kept under the "C++/simplified" contains C++ programs that has been simplified, containing higher level syntaxes and a more imporved structure of program, these files are created for reference and learning purposes.
 
-<br>
+---
 
 If any changes are required inside any of the files included inside this repository, only the owner and/or contributors are allowed to
 
