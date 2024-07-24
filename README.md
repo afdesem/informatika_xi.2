@@ -4,4 +4,4 @@ This repository is only for school work purposes, everything inside has been wri
 
 If any changes are required inside any of the files included inside this repository, only the owner and/or contributors are allowed to
 
-<h3>This repository is only for XI.2 and is prohibited to be shared amongst classes</h3>
+<h3>This repository is prohibited to be shared amongst classes under no permission</h3>
