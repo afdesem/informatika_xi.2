@@ -5,8 +5,8 @@ This repository is only for school work purposes, everything inside has been wri
 <h3>1. "C++/works"</h3>
 Files that are kept under the "C++/works" contains C++ programs that are written exactly as per told by books or by intructor, it will also contain codes that are not yet simplified, follows accordingly as per told, and contains a long block of code with low level syntax (or higher, following told instructions accordingly)
 
-<h3>2. "C++/simplified"</h3>
-Files that are kept under the "C++/simplified" contains C++ programs that has been simplified, containing higher level syntaxes and a more imporved structure of program, these files are created for reference and learning purposes.
+<h3>2. "C++/fixed"</h3>
+Files that are kept under the "C++/fixed" contains C++ programs that has been simplified and/or fixed if there are unnoticeable mistake given by the intructor, containing higher level syntaxes and a more improved structure of program, these files are created for reference and learning purposes.
 
 ---
 
