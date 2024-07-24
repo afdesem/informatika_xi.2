@@ -25,11 +25,11 @@ int main() {
     cout << "Masukan nilai a23: ";
     cin >> a[1][2];
     
-    cout << "Masukan nilai a21: ";
+    cout << "Masukan nilai a31: ";
     cin >> a[2][0];
-    cout << "Masukan nilai a22: ";
+    cout << "Masukan nilai a32: ";
     cin >> a[2][1];
-    cout << "Masukan nilai a23: ";
+    cout << "Masukan nilai a33: ";
     cin >> a[2][2];
     
     //Array "b"
@@ -47,11 +47,11 @@ int main() {
     cout << "Masukan nilai b23: ";
     cin >> b[1][2];
     
-    cout << "Masukan nilai b21: ";
+    cout << "Masukan nilai b31: ";
     cin >> b[2][0];
-    cout << "Masukan nilai b22: ";
+    cout << "Masukan nilai b32: ";
     cin >> b[2][1];
-    cout << "Masukan nilai b23: ";
+    cout << "Masukan nilai b33: ";
     cin >> b[2][2];
     
     //Count the matrix (Arrays)
