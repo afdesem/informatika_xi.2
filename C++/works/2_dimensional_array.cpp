@@ -29,7 +29,7 @@ int main () {
     c[1][0] = (a[1][0] * b[0][0]) + (a[1][1] * b[1][0]);
     c[1][1] = (a[1][0] * b[0][1]) + (a[1][1] * b[1][1]);
 
-    cout << "Nilai MAtrix C Adalah: " << endl;
+    cout << "Nilai Matrix C Adalah: " << endl;
     cout << " [ " << c[0][0] << " " << c[0][1] << " ] " << endl;
     cout << " [ " << c[1][0] << " " << c[1][1] << " ] " << endl;
 
