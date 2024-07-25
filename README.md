@@ -12,3 +12,5 @@ Files that are kept under the "C++/fixed" contains C++ programs that has been si
 
 If any changes are required inside any of the files included inside this repository, only the owner and/or contributors are allowed to
 
+> Repository only accessible and given interclass under XI.2 permission
+
