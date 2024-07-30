@@ -6,10 +6,10 @@ int main () {
     
     int a[3][3][3], b[3][3][3], c[3][3][3];
     
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
-            for (int k = 0; k < 3; k++) {
-                cout << "Masukkan nilai a" << i + 1 << j + 1 << k + 1 << ": ";
+    for (int i = 1; i <= 3; i++) {
+        for (int j = 1; j <= 3; j++) {
+            for (int k = 1; k <= 3; k++) {
+                cout << "Masukkan nilai a" << i << j << k << ": ";
                 cin >> a[i][j][k];
             }
         }
@@ -17,10 +17,10 @@ int main () {
     
     std::cout << '\n';
     
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
-            for (int k = 0; k < 3; k++) {
-                cout << "Masukkan nilai b" << i + 1 << j + 1 << k + 1 << ": ";
+    for (int i = 1; i <= 3; i++) {
+        for (int j = 1; j <= 3; j++) {
+            for (int k = 1; k <= 3; k++) {
+                cout << "Masukkan nilai b" << i << j << k << ": ";
                 cin >> b[i][j][k];
             }
         }
