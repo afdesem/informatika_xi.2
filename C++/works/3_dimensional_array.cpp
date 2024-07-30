@@ -15,7 +15,7 @@ int main() {
     cin >> a[0][0];
     cout << "Masukan nilai a12: ";
     cin >> a[0][1];
-    cout << "Masukan nilai a23: ";
+    cout << "Masukan nilai a13: ";
     cin >> a[0][2];
     
     cout << "Masukan nilai a21: ";
