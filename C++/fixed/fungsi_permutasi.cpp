@@ -1,13 +1,15 @@
 #include <iostream>
 using namespace std;
 
-int fac(int p) {
+//create factorial function for flexibility
+int faktorial(int p) {
     for (int i = p-1; i > 0; i--) {
         p *= i;
     }
     return p;
 }
 
+//the right formula for permutations are n!/(n-r)!
 int permutasi(int x, int y) {
     return fac(x) / fac(x-y);
 }
