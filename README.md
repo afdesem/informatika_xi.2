@@ -8,7 +8,7 @@ Files that are kept under the "C++/works" contains C++ programs that are written
 <h3>2. "C++/fixed"</h3>
 Files that are kept under the "C++/fixed" contains C++ programs that has been simplified and/or fixed if there are unnoticeable mistake given by the intructor, containing higher level syntaxes and a more improved structure of program, these files are created for reference and learning purposes. (any programs under the "C++/works" that are already simple and/or cannot be simplified any further will not be recreated, except if there are mistakes and/or any non relevant obejects contained inside).
 
-<b>NOTE: EVERYTHING INSIDE THE "C++/fixed" DIRECTORY ARE NOT TO BE SHARED OR BE SUBMITTED TO THE INSTRUCTOR</b>
+<b>NOTE: EVERYTHING INSIDE THE "C++/fixed" DIRECTORY ARE NOT MEANT TO BE SHARED OR BE SUBMITTED TO THE INSTRUCTOR</b>
 
 ---
 
